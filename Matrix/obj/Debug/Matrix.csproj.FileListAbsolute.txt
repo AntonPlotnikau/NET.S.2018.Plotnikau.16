@@ -1,0 +1,6 @@
+E:\training\NET.S.2018.Plotnikau.16\Matrix\bin\Debug\Matrix.dll
+E:\training\NET.S.2018.Plotnikau.16\Matrix\bin\Debug\Matrix.pdb
+E:\training\NET.S.2018.Plotnikau.16\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+E:\training\NET.S.2018.Plotnikau.16\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+E:\training\NET.S.2018.Plotnikau.16\Matrix\obj\Debug\Matrix.dll
+E:\training\NET.S.2018.Plotnikau.16\Matrix\obj\Debug\Matrix.pdb
